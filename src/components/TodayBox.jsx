@@ -2,7 +2,6 @@ import React from "react";
 import { convertC, convertShortTime } from "../helpers/Converters";
 
 import { Swiper, SwiperSlide } from "swiper/react";
-import "swiper/scss";
 
 const TodayBox = ({ data }) => (
   <Swiper
