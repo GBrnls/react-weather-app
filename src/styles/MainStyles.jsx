@@ -99,6 +99,7 @@ export const StyledMain = styled.div`
     height: 200px;
     margin-top: 3%;
     padding-left: 5%;
+    display: flex;
   }
 
   .box {
