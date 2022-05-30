@@ -2,7 +2,6 @@ import React from "react";
 import { convertC, convertShortDay } from "../helpers/Converters";
 
 import { Swiper, SwiperSlide } from "swiper/react";
-import "swiper/scss";
 
 const WeekBox = ({ data }) => (
   <Swiper
