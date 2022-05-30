@@ -16,7 +16,7 @@
     "swiper-react": "1.0.0"
   },
   "devDependencies": {
-    "@babel/runtime": "7.13.8",
+    "@babel/runtime": "7.13.8"
   },
   "scripts": {
     "start": "react-scripts start",
