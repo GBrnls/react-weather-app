@@ -2,7 +2,6 @@ import React from "react";
 import { convertLongTime } from "../helpers/Converters";
 
 import { Swiper, SwiperSlide } from "swiper/react";
-import "swiper/swiper.scss";
 
 const HighlightsBox = ({ data }) => (
   <Swiper
