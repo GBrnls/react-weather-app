@@ -93,7 +93,11 @@ export const StyledMain = styled.div`
       left: -15px;
     }
   }
-
+  
+  .swiper-wrapper {
+    display: flex;
+  }
+  
   .box_container {
     width: 100%;
     height: 200px;
