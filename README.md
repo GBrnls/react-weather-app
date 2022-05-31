@@ -5,7 +5,8 @@ A little Weather Forecast App made with 💖 & React
 
 
 ## 🌐 Live Demo
-/insert link to netlify app
+ 👉 [Click Here](https://react-weather-forecast-l8u6xxp8u-gbrnls.vercel.app/)
+
 ## Features
 👉 Currently :
 * Uses React, including customed React Hooks for APIs
