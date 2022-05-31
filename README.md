@@ -5,7 +5,7 @@ A little Weather Forecast App made with 💖 & React
 
 
 ## 🌐 Live Demo
- 👉 [Click Here](https://react-weather-forecast-l8u6xxp8u-gbrnls.vercel.app/)
+ 👉 [Click Here](https://react-weather-app-brnls.vercel.app/)
 
 ## Features
 👉 Currently :
