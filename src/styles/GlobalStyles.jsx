@@ -10,6 +10,10 @@ export const GlobalStyles = createGlobalStyle`
     font-family: "Averta-Regular";
     overflow:scroll;
   }
+  
+     .App {
+       overflow: hidden;
+      }
 
   @media only screen and (min-width: 601px) {
     body {
