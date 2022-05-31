@@ -94,9 +94,6 @@ export const StyledMain = styled.div`
     }
   }
   
-  .swiper-wrapper {
-    display: flex;
-  }
   
   .box_container {
     width: 100%;
