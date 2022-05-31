@@ -16,6 +16,7 @@ A little Weather Forecast App made with 💖 & React
 * Dark Theme 
 
 👉 Incoming :
+* Update Data by City (coming soon ...)
 * Local Storage for savings parameters 
 * Conversion in Celsius or Fahrenheit
 * Refactoring & Cleaning
