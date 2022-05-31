@@ -12,6 +12,7 @@ export const StyledSideBar = styled.div`
   text-align: center;
   padding: 2%;
   padding-bottom: 5%;
+  z-index: 2;
 
   h1,
   h2 {
@@ -29,7 +30,7 @@ export const StyledSideBar = styled.div`
       width: 30px;
       height: 30px;
       margin: auto;
-      z-index: 1;
+      z-index: 3;
       position: relative;
       left: 5%;
     }
