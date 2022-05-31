@@ -116,7 +116,6 @@ export const StyledMain = styled.div`
     justify-content: space-evenly;
     align-items: center;
     border-radius: 5%;
-    margin: 1%;
     width: 150px;
     height: 150px;
     cursor: grab;
