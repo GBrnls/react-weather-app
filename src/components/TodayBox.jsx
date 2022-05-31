@@ -30,7 +30,7 @@ const TodayBox = ({ data }) => (
     {data &&
       data.map((hour, i) => (
         <SwiperSlide key={i.toString()} className="box">
-          <div>
+          <div className="box_info">
             <div>{convertShortTime(hour.dt)}</div>
             <img
               src={require(`../icons/${hour.weather[0].icon}.png`)}
